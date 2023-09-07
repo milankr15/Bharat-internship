@@ -2,9 +2,9 @@
 
 This repository contains the code for building a Netflix-inspired home page using HTML and CSS. The project aims to recreate the visual design and layout of the Netflix home page, providing a starting point for creating similar interfaces or learning web development techniques.
 
-## Preview
+## Screenshot
 
-![image](Capture3.png)
+![Alt text](<Capture3.PNG>)
 
 # Website Link
-[Click Here](https://netflix-hompage-1160d2.netlify.app/)
+[Click Here](https://netflixclone-homepage-7b9d1b.netlify.app/)
